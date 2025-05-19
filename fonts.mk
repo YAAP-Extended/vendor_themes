@@ -13,4 +13,5 @@ PRODUCT_PACKAGES += \
     FontOnePlusSansOverlay \
     FontOneplusSlateSourceOverlay \
     FontRobotoOverlay \
+    FontRosemaryOverlay \
     FontUbuntuOverlay
